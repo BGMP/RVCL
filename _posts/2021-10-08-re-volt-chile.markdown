@@ -17,7 +17,7 @@ El formato de la copa consistirá en 2 fases que se jugarán respectivamente en 
 El contenido a utilizar durante este torneo será sólo el **Stock** del juego, junto con el pack de Dreamcast (Rooftops y autos).
 **rvgl_dcpack** en el launcher.
 
-**Participantes Confirmados (15/16)**
+**Participantes Confirmados (16/16)**
    * MACACOSKY `Macacosky#5337`
    * K6 `GuatonBairon#1673`
    * PROFEEEEE `profeeeee#0064`
@@ -33,6 +33,7 @@ El contenido a utilizar durante este torneo será sólo el **Stock** del juego, 
    * ZARKRAZ `Zarkraz#7047`
    * OSVALDX `OsvaldoX#4405`
    * RIFFOOX `riffoox#8754`
+   * KMOTIN `KmotinXX#3229`
 
 ## Fase Preliminar
 
