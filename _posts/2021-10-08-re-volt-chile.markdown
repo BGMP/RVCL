@@ -17,6 +17,8 @@ El formato de la copa consistirá en 2 fases que se jugarán respectivamente en 
 El contenido a utilizar durante este torneo será sólo el **Stock** del juego, junto con el pack de Dreamcast (Rooftops y autos).
 **rvgl_dcpack** en el launcher.
 
+  * [Descargar rvgl_dcpack]({{ site.baseurl }}/files/rvgl_dcpack.zip)
+
 **Participantes Confirmados (16/16)**
    * MACACOSKY `Macacosky#5337`
    * K6 `GuatonBairon#1673`
@@ -95,7 +97,7 @@ y un último elegido al azar en caso de un nuevo empate.
 | Vueltas      | 3 en cada pista              |
 | Host         | BGM#1559                     |
 
-En la fase final los puntajes vuelvan a 0, y se jugará sólo la clase de auto `Pro`, **excepto Purp XL**, el
+En la fase final los puntajes vuelven a 0, y se jugará sólo la clase de auto `Pro`, **excepto Purp XL**, el
 cual no está permitido utilizar. Se jugarán todas las pistas Stock normales y, luego de terminar, los participantes
 podrán elegir una pista invertida de su preferencia cada uno.
 
