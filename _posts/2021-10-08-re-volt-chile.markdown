@@ -95,7 +95,7 @@ y un último elegido al azar en caso de un nuevo empate.
 | Vueltas      | 3 en cada pista              |
 | Host         | BGM#1559                     |
 
-En la fase final los puntajes vuelvan a 0, y se jugará sólo la clase de auto `Pro`, **excepto Purp XL**, el
+En la fase final los puntajes vuelven a 0, y se jugará sólo la clase de auto `Pro`, **excepto Purp XL**, el
 cual no está permitido utilizar. Se jugarán todas las pistas Stock normales y, luego de terminar, los participantes
 podrán elegir una pista invertida de su preferencia cada uno.
 
