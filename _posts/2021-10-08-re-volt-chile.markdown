@@ -22,7 +22,7 @@ El contenido a utilizar durante este torneo será sólo el **Stock** del juego, 
    * K6 `GuatonBairon#1673`
    * PROFEEEEE `profeeeee#0064`
    * MATI `Mati#8397`
-   * ELDTOLOHACEBIEN `Seba 08#0428`
+   * SEBA08 `Seba 08#0428`
    * ARSE07 `arsenal0.7#1413`
    * CIFBEN `Pata Bionica#4834`
    * FORRADO `benja#3518`
