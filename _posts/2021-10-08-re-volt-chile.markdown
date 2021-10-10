@@ -15,7 +15,8 @@ El formato de la copa consistirá en 2 fases que se jugarán respectivamente en 
 ## Información
 
 El contenido a utilizar durante este torneo será sólo el **Stock** del juego, junto con el pack de Dreamcast (Rooftops y autos).
-**rvgl_dcpack** en el launcher.
+**rvgl_dcpack** en el launcher. En caso de que no utilices el launcher, aquí hay una descarga directa que puedes extraer en tu carpeta
+del juego:
 
   * [Descargar rvgl_dcpack]({{ site.baseurl }}/distribute/rvgl_dcpack.zip)
 
