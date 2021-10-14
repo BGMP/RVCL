@@ -27,7 +27,7 @@ del juego:
    * MATI `Mati#8397`
    * SEBA08 `Seba 08#0428`
    * ARSE07 `arsenal0.7#1413`
-   * CIFBEN `Pata Bionica#4834`
+   * LUKADEON `lukadeon#4820`
    * FORRADO `benja#3518`
    * HOJAS NINJA `Hojas Ninjas#2238`
    * CYKUTA `Mau#2220`
