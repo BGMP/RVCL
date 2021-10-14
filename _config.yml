@@ -4,6 +4,11 @@ description: >-
   Una página web estática temporal para los jugadores de Re-Volt en Chile!
 github_username: "BGMP"
 
+exclude: [
+  'README.md',
+  'LICENSE.md'
+]
+
 theme: minima
 plugins:
   - jekyll-feed
