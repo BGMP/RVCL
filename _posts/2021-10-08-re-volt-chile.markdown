@@ -82,7 +82,7 @@ El puntaje funcionará de tal forma que por llegar a la meta recibes 1 punto y, 
 que termine en una posición inferior a la tuya. Por ejemplo: si llegas primero, y son 16 jugadores, ganarás 16 puntos esa
 carrera.
 
-**Clasificarán a la fase final las 6 personas que obtengan el mayor puntaje acomulado en esta fase.**
+**Clasificarán a la fase final las 8 personas que obtengan el mayor puntaje acomulado en esta fase.**
 
 En caso de un empate entre el sexto y septimo lugar se decidirá el ganador al mejor de 3 mapas, 1 elegido por cada participante,
 y un último elegido al azar en caso de un nuevo empate.
@@ -118,7 +118,7 @@ podrán elegir una pista invertida de su preferencia cada uno.
       * Supermarket 1
       * Ghost Town 2
       * Toytanic 2
-      * Las 6 pistas elegidas (Invertidas)
+      * Las 8 pistas elegidas (Invertidas)
 
 ### Puntuación y Podio
 
