@@ -1,0 +1,39 @@
+---
+title: Ranking Oficial
+layout: page
+---
+
+<p>
+    Este Ranking es matenido por nuestra organización en base a todas las sesiones oficiales jugadas por la comunidad
+    chilena de Re-Volt.
+</p>
+
+<h5>* Ordenado por Puntos.</h5>
+
+<table>
+    <tr>
+        <th>Posición</th>
+        <th>Jugador</th>
+        <th>Puntos</th>
+        <th>Sesiones Jugadas</th>
+        <th>Puntos/Sesión</th>
+    </tr>
+
+    {% for entry in site.data.ranking %}
+        <tr>
+            <td>{{ entry["Posicion"] }}</td>
+            <td>{{ entry["Jugador"] }}</td>
+            <td>{{ entry["Puntos"] }}</td>
+            <td>{{ entry["Sesiones jugadas"] }}</td>
+            <td>{{ entry["Promedio"] }}</td>
+        </tr>
+    {% endfor %}
+</table>
+
+<h5>* Última Actualización: 01/11/2021</h5>
+
+<p><b>Nota: </b>
+    Los puntos de
+    cada jugador equivalen a la suma del puntaje obtenido a lo largo de todas las <u>Sesiones Casuales</u> jugadas hasta la
+    fecha. Torneos y eventos oficiales no cuentan en torno al ranking total.
+</p>
