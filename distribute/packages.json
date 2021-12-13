@@ -1,18 +1,18 @@
 {
   "name": "Re-Volt Chile",
-  "version": "1.0000",
+  "version": 1.0000,
   "packages": {
     "rvcl_tracks": {
       "description": "Re-Volt Chile's Custom Tracks Pack",
-      "version": "1.0000",
+      "version": 1.0000,
       "checksum": "dadd225fbaa815758f77197f08b982436afd3d78b17378292d43641db69ee0e8",
-      "url": "https://anonfiles.com/b2neD60cv2/rvcl_tracks_zip"
+      "url": "https://cdn-130.anonfiles.com/b2neD60cv2/71f34a49-1639361289/rvcl_tracks.zip"
     },
     "rvcl_cars": {
       "description": "Re-Volt Chile's Custom Cars Pack",
-      "version": "1.0000",
+      "version": 1.0000,
       "checksum": "7227a264ba2459e41d0e8c06915c72fdf2674eba468a4f94a00e38fcf6021cce",
-      "url": "https://anonfiles.com/D9k9D605v2/rvcl_cars_zip"
+      "url": "https://cdn-107.anonfiles.com/D9k9D605v2/a512bf11-1639361310/rvcl_cars.zip"
     }
   }
 }
