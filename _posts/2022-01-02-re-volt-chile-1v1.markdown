@@ -60,5 +60,5 @@ Las brackets se encuentran ya disponibles en Challonge: [https://challonge.com/x
 |--------------|------------------------------|------------------------|----------------|
 | BGM          | Inglés, Español, Italiano    | official01.re-volt.cl  | BGM#1559       |
 | TT           | Inglés, Español, Portugués   | official02.re-volt.cl  | Y100XTT#9497   | 
-| Powerate     | Inglés, Español, Italiano    | official03.re-volt.cl  | Powerate#1613  |
+| Powerate     | Inglés, Italiano    | official03.re-volt.cl  | Powerate#1613  |
 | Macacosky    | Inglés, Español              | official04.re-volt.cl  | Macacosky#5337 |
