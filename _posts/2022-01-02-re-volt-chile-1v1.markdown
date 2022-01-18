@@ -9,7 +9,7 @@ categories: re-volt chile
 
 Bienvenidos al primer campeonato 1v1 organizado por Re-Volt Chile! esperamos puedan otorgarnos 
 el mayor espectáculo competitivo que haya visto esta comunidad en todo el tiempo que lleva activa.
-A continuación se presentarán las reglas bajo las cuales se llevará a cabo el torneo partir del Lunes 3 de Enero, desde
+A continuación se presentarán las reglas bajo las cuales se llevará a cabo el torneo a partir del Lunes 3 de Enero, desde
 las 20:00 UTC horas del presente año.
 
 ## Participantes
