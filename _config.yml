@@ -3,6 +3,7 @@ email: jose@bgmp.cl
 description: >-
   Una página web estática temporal para los jugadores de Re-Volt en Chile!
 github_username: "BGMP"
+discord: "https://discord.gg/73BghbRw67"
 
 exclude: [
   'README.md',
@@ -12,3 +13,4 @@ exclude: [
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
