@@ -3,13 +3,13 @@
   "version": "21.1212a1",
   "packages": {
     "rvcl_tracks": {
-      "description": "Re-Volt Chile's Custom Tracks Pack",
+      "description": "Re-Volt Chile's Custom Track Pack",
       "version": "21.1212a1",
       "checksum": "dadd225fbaa815758f77197f08b982436afd3d78b17378292d43641db69ee0e8",
       "url": "https://github.com/BGMP/RVCL/releases/download/21.1212a1/rvcl_tracks.zip"
     },
     "rvcl_cars": {
-      "description": "Re-Volt Chile's Custom Cars Pack",
+      "description": "Re-Volt Chile's Custom Car Pack",
       "version": "21.1212a1",
       "checksum": "7227a264ba2459e41d0e8c06915c72fdf2674eba468a4f94a00e38fcf6021cce",
       "url": "https://github.com/BGMP/RVCL/releases/download/21.1212a1/rvcl_cars.zip"
