@@ -42,12 +42,12 @@ las 20:00 UTC horas del presente año.
    * SOLILI `solilli19#6351`
 
 ## Mecánica del Torneo
-  * Para asegurarnos de que todas las brackets del torneo sean jugadas habrá referees oficiales a cargo de hostear y 
-  supervisar todos los enfrentamientos que se llevarán a cabo.
-  * Cada 1v1 poseerá reglas bajo mutuo acuerdo entre ambos participantes, donde se podrá incluir contenido tanto Stock
-   como Custom.
-  * Cada bracket deberá comunicarse para acordar una fecha conveniente en conjunto con un Referee, para que así la
-  partida pueda resolverse sin problemas.
+* Para asegurarnos de que todas las brackets del torneo sean jugadas habrá referees oficiales a cargo de hostear y 
+supervisar todos los enfrentamientos que se llevarán a cabo.
+* Cada 1v1 poseerá reglas bajo mutuo acuerdo entre ambos participantes, donde se podrá incluir contenido tanto Stock
+como Custom.
+* Cada bracket deberá comunicarse para acordar una fecha conveniente en conjunto con un Referee, para que así la
+partida pueda resolverse sin problemas.
 
 ## Brackets
 Las brackets se encuentran ya disponibles en Challonge: [https://challonge.com/xkmxph6l](https://challonge.com/xkmxph6l)
@@ -55,10 +55,9 @@ Las brackets se encuentran ya disponibles en Challonge: [https://challonge.com/x
 <iframe src="https://challonge.com/xkmxph6l/module" width="100%" height="800" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 ## Referees
-
 | Referee      | Idiomas                       | IP Oficial            | Discord        |
 |--------------|------------------------------|------------------------|----------------|
-| BGM          | Inglés, Español, Italiano    | official01.re-volt.cl  | BGM#1559       |
-| TT           | Inglés, Español, Portugués   | official02.re-volt.cl  | Y100XTT#9497   | 
-| Powerate     | Inglés, Italiano    | official03.re-volt.cl  | Powerate#1613  |
-| Macacosky    | Inglés, Español              | official04.re-volt.cl  | Macacosky#5337 |
+| BGM          | Inglés, Español, Italiano    | official01.re-volt.cl  | bgm            |
+| TT           | Inglés, Español, Portugués   | official02.re-volt.cl  | ttdriver       | 
+| Powerate     | Inglés, Italiano             | official03.re-volt.cl  | powerate       |
+| Macacosky    | Inglés, Español              | official04.re-volt.cl  | macacosky      |

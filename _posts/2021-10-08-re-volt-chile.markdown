@@ -13,7 +13,6 @@ Re-Volt.
 El formato de la copa consistirá en 2 fases que se jugarán respectivamente en cada día del evento.
 
 ## Información
-
 El contenido a utilizar durante este torneo será sólo el **Stock** del juego, junto con el pack de Dreamcast (Rooftops y autos).
 **rvgl_dcpack** en el launcher. En caso de que no utilices el launcher, aquí hay una descarga directa que puedes extraer en tu carpeta
 del juego:
@@ -39,7 +38,6 @@ del juego:
    * KMOTIN `KmotinXX#3229`
 
 ## Fase Preliminar
-
 | Fecha/Hora   | 15 de Octubre de 21:00 a 22:00 | 
 |--------------|------------------------------|
 | IP           | `official01.re-volt.cl`      |
@@ -47,7 +45,7 @@ del juego:
 | Modo         | Arcade                       |
 | Pick-ups     | Activados                    |
 | Vueltas      | 3 en cada pista              |
-| Host         | BGM#1559                     |
+| Host         | BGM                          |
 
 En la fase preliminar se jugarán las clases de auto `Rookie`, `Amateur`, `Advanced` y `Semi-Pro`, a través de las cuales
 se ira avanzando a medida que transcurren las pistas.
@@ -77,7 +75,6 @@ se ira avanzando a medida que transcurren las pistas.
       * Toytanic 2 (Invertida)
 
 ### Puntuación y Clasificación
-
 El puntaje funcionará de tal forma que por llegar a la meta recibes 1 punto y, además, recibes 1 punto por cada persona
 que termine en una posición inferior a la tuya. Por ejemplo: si llegas primero, y son 16 jugadores, ganarás 16 puntos esa
 carrera.
@@ -88,7 +85,6 @@ En caso de un empate entre el sexto y septimo lugar se decidirá el ganador al m
 y un último elegido al azar en caso de un nuevo empate.
 
 ## Fase Final
-
 | Fecha/Hora   | 16 de Octubre de 21:00 a 22:00 | 
 |--------------|------------------------------|
 | IP           | `official01.re-volt.cl`      |
@@ -96,7 +92,7 @@ y un último elegido al azar en caso de un nuevo empate.
 | Modo         | Arcade                       |
 | Pick-ups     | Activados                    |
 | Vueltas      | 3 en cada pista              |
-| Host         | BGM#1559                     |
+| Host         | BGM                          |
 
 En la fase final los puntajes vuelven a 0, y se jugará sólo la clase de auto `Pro`, **excepto Purp XL**, el
 cual no está permitido utilizar. Se jugarán todas las pistas Stock normales y, luego de terminar, los participantes
@@ -121,7 +117,6 @@ podrán elegir una pista invertida de su preferencia cada uno.
       * Las 8 pistas elegidas (Invertidas)
 
 ### Puntuación y Podio
-
 El puntaje funcionará de igual manera que en la fase preliminar, y los 3 participantes con la mayor cantidad de puntos
 serán el primer, segundo y tercer lugar del evento.
 

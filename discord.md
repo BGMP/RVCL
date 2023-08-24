@@ -1,4 +1,4 @@
 ---
 title: Discord
-redirect_to: https://discord.gg/73BghbRw67
+redirect_to: https://discord.gg/qBDS7wY5cW
 ---
