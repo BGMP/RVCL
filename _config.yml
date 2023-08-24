@@ -7,7 +7,7 @@ discord: "https://discord.gg/73BghbRw67"
 
 exclude: [
   'README.md',
-  'LICENSE.md'
+  'LICENSE'
 ]
 
 theme: minima
